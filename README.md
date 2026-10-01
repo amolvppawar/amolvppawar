@@ -1,6 +1,6 @@
 # Hi, I'm Amol Pawar 👋
 
-Python Backend & AI Engineer with 5+ years of experience building scalable distributed systems, real-time data platforms, and cloud-native applications.
+Python Backend & AI Engineer with 6.1+ years of experience building scalable distributed systems, real-time data platforms, and cloud-native applications.
 
 ## 🚀 What I Work On
 
